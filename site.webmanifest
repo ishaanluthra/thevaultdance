@@ -1,0 +1,15 @@
+{
+  "name": "The Vault Dance",
+  "short_name": "Vault Dance",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#141B2E",
+  "theme_color": "#141B2E",
+  "icons": [
+    {
+      "src": "img/logo-neon-512.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
